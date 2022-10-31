@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="MIKER-BOT" width="900"/>
+<img src="https://github.com/Mikers-Bot/bot-1#-%EF%B8%8Fbots-oficiales/blob/main/galeria/dorrat-imagen.jpg" alt="MIKER-BOT" width="900"/>
 </p>
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
