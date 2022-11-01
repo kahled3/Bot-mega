@@ -69,7 +69,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Mikers-Bot/bot-1#-%EF%B8%8Fbots-oficiales
+> git clone https://github.com/Mikers-Bot/bot-1
 > cd DORRAT-TERMUX
 > yarn install 
 > npm install
