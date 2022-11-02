@@ -70,7 +70,7 @@
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Mikers-Bot/bot-1
-> cd DORRAT-TERMUX
+> cd bot-1
 > yarn install 
 > npm install
 > npm update
