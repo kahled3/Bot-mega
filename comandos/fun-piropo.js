@@ -1,8 +1,8 @@
-/* By https://github.com/DIEGO-OFC/DORRAT-BOT-MD */
+/* By https://github.com/Mikers-Bot/bot-1 */
 
 let handler = async (m, { conn, text}) => {
 
-m.reply(`*╔═════════════════════════════*\n➢ *"${pickRandom(global.piropo)}"*\n - *_By DIEGO-0FC©_*\n*╚═════════════════════════════*`)
+m.reply(`*╔═════════════════════════════*\n➢ *"${pickRandom(global.piropo)}"*\n - *_By ALEXIS_*\n*╚═════════════════════════════*`)
   
 }
 handler.tags = ['frases']
