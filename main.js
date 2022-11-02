@@ -329,14 +329,14 @@ global.db.chain = chain(global.db.data)
 }
 loadDatabase()
 
-global.authFile = `DORRATSESSION`
+global.authFile = `MIKERSECION`
 const { state, saveState, saveCreds } = await useMultiFileAuthState(global.authFile)
 
 const connectionOptions = {
 printQRInTerminal: true,
 auth: state,
 logger: P({ level: 'silent'}),
-browser: ['DORRAT-BOT','Firefox','1.0.0']
+browser: ['MIKER-BOT','Firefox','1.0.0']
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -370,7 +370,7 @@ global.timestamp.connect = new Date
 }
 if (global.db.data == null) loadDatabase()
 if (connection == 'open') {
-console.log(chalk.yellow('╭──────────────────────────────✧•°•°···\n│➢ 𝐁𝐎𝐓 𝐂𝐎𝐍𝐄𝐂𝐓𝐀𝐃𝐎 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄 ☑️\n│❏ 𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐃𝐎:𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 ☑️\n╰──────────────────────────────✧•°•°···'))}
+console.log(chalk.yellow('╭──────────────────────────────✧•°•°···\n│➢ 𝐁𝐎𝐓 𝐂𝐎𝐍𝐄𝐂𝐓𝐀𝐃𝐎 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄 ☑️\n│❏ 𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐃𝐎:𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓 ☑️\n╰──────────────────────────────✧•°•°···'))}
 }
 
 process.on('uncaughtException', console.error)
