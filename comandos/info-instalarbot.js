@@ -13,8 +13,8 @@ https://youtu.be/DKo7PO2ta4o
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/Mikers-Bot/bot-1
+> cd bot-1 
 > yarn install 
 > npm install
 > npm update
@@ -24,9 +24,9 @@ https://youtu.be/DKo7PO2ta4o
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 - 𝙸𝙽𝚂𝚃𝙰𝙻𝙰𝚁𝙱𝙾𝚃',
-body: '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤†',         
+body: '𝑻𝑯𝑬 𝑴𝑰𝑲𝑬𝑹-𝑩𝑶𝑻-𝑶𝑭𝑪',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/DIEGO-OFC/DORRAT-BOT-MD`}}})   
+sourceUrl: `https://github.com/Mikers-Bot/bot-1`}}})   
 }
 handler.command = /^(instalarbot)/i
 export default handler
