@@ -112,4 +112,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
 <a href="https://github.com/Mikers-Bot/---.git"><img src="https://github.com/Mikers-Bot/---.git" width="300" height="300" alt="Alexis"/></a>
 
-> Miker-bot _ Alexis
+> 𝐀𝐋𝐄𝐗𝐈𝐒-𝐓𝐑𝐌
