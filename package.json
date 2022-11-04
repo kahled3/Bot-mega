@@ -1,8 +1,8 @@
 {
-    "name": "DORRAT-BOT-MD",
+    "name": "Miker-BOT",
     "version": "1.0.0",
-    "description": "Subscribete al canal de YT DIEGOGAMEPLAYS82",
-    "main": "dorrat-inicio.js",
+    "description": "Subscribete al canal de YT https://youtube.com/channel/UCbHneCEkmtkYs6905cuGHCw",
+    "main": "Miker-inicio.js",
     "type": "module",
     "directories": {
         "lib": "lib",
@@ -10,13 +10,13 @@
         "comandos": "comandos"
     },
     "scripts": {
-        "start": "node dorrat-inicio.js",
+        "start": "node Miker-inicio.js",
         "test": "node test.js",
-        "test2": "nodemon dorrat-inicio.js"
+        "test2": "nodemon Miker-inicio.js"
     },
-    "homepage": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD",
+    "homepage": "https://github.com/Mikers-Bot/bot-1",
     "author": {
-        "name": "DIEGO-OFC"
+        "name": "Miker-bot"
     },
     "repository": {
         "type": "git",
