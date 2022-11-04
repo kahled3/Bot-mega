@@ -20,14 +20,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DIEGO-OFC/DORRAT-BOT-MD.git"
+        "url": "https://github.com/Mikers-Bot"
     },
     "bugs": {
-        "url": "https://github.com/DIEGO-OFC/DORRAT-BOT-MD/issues"
+        "url": "https://github.com/Mikers-Bot"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-       "@adiwajshing/baileys": "github:DIEGO-OFC/baileys",
+       "@adiwajshing/baileys": "https://github.com/Mikers-Bot",
         "@bochilteam/scraper": "^3.0.0",
         "@vitalets/google-translate-api": "^8.0.0",
         "acrcloud": "^1.4.0",
