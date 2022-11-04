@@ -19,10 +19,11 @@
 ### `—◉ 🔥GRUPOS OFICIALES`
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https:)  <a href="https://chat.whatsapp.com/Ez9Lz8Q4WCpKg3BBcrnUMP "> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https:)  <a href="https://chat.whatsapp.com/Ez9Lz8Q4WCpKg3BBcrnUMP"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 [![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https:)  <a href="https://chat.whatsapp.com/D9ztlal0GOG4LbcpS00ehJ"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-
+)](https:)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+[![blog](https://img.shields.io/badge/Grupo-Oficial3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
+)](https:)  <a href="https://chat.whatsapp.com/IOB712Mxd8YL5j1ROQsnmI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 ---------
 > GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
 
