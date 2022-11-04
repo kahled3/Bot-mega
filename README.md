@@ -12,7 +12,7 @@
 
 <a href="http://wa.me/524531106422" target="blank"><img src="https://img.shields.io/badge/ALEXIS_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/524531403370" target="blank"><img src="https://img.shields.io/badge/José_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/+34632542305" target="blank"><img src="https://img.shields.io/badge/Juan_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/" target="blank"><img src="https://img.shields.io/badge/_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
