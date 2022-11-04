@@ -8,7 +8,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //cambia los números que sean propietarios 
 global.owner = [
   ['524531106422', '🔰    𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓  - Creador 🔰'𝐀𝐋𝐄𝐗𝐈𝐒, true],
-  ['', '🔰    𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓  - Collaborator 1 🔰', true],
+  ['34632542305', '🔰    𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓  - Collaborator 1 🔰', true],
   ['', '🔰   𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓 - Collaborator 3 🔰', true],
   ['', '🔰    𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓  -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
   ['', '🔰    𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓  - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
@@ -17,7 +17,7 @@ global.owner = [
 
 ] 
 global.suittag = [''] 
-global.mods = [''] 
+global.mods = ['34632542305'] 
 global.prems = [] 
 
 global.APIs = { // API Prefix
