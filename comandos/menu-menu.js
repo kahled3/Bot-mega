@@ -502,7 +502,7 @@ let str = `
 ├➢👑 _${usedPrefix}listprem_
 └────ׂ─ׂ─ׂ─ׂ───
  ━━━━━━━━━━━━━━━━━━━━━━━━━
-┃𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓 𝐓𝐑𝐌 𝐁𝐘 𝐀𝐋𝐄𝐗𝐈𝐒-𝐓𝐑𝐌┃
+┃𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓 𝐑𝐗𝐓 𝐁𝐘 𝐀𝐋𝐄𝐗𝐈𝐒-𝐑𝐗𝐓┃
  ━━━━━━━━━━━━━━━━━━━━━━━━━
 `.trim()
 let buttons = [
@@ -522,7 +522,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title:'👑 𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓 𝐓𝐑𝐌 👑',
+title:'👑 𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓 𝐑𝐗𝐓 👑',
 body: null,
 thumbnail: null,
 sourceUrl: `https://chat.whatsapp.com/Ez9Lz8Q4WCpKg3BBcrnUMP`
