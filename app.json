@@ -1,18 +1,7 @@
 {
-  "name": "MIKER-BOT",
-  "description": "Subscribete a Diegogameplays82 - Bot (≧▽≦)",
-  "repository": "https://github.com/Mikers-Bot/bot-1#-%EF%B8%8Fbots-oficiales",
-  "logo": "https://raw.githubusercontent.com/DIEGO-OFC/DORRAT-BOT-MD/master/Menu2.jpg",
-  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "buildpacks": [
-  {
-    "url": "heroku/nodejs"
-  },
-  {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  },
-  {
-    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
-  }    
- ]
+  "name": "dylux-fg",
+  "description": "Customizable WhatsApp Bot",
+  "repository": "https://github.com/FG98F/dylux-fg",
+  "logo": "https://i.ibb.co/dG6rm49/fg-logo.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "dylux-bot-md", "dylux-bot"]
 }
